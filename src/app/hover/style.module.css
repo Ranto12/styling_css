@@ -1,3 +1,5 @@
+/* anime */
+
 .list {
   background-image: linear-gradient(90deg, black 1px, transparent 1px),
     linear-gradient(180deg, black 1px, transparent 1px);
@@ -36,4 +38,13 @@
 .list .item:has(+ * + * + *:hover) {
   filter: brightness(0.2);
   transform: translateZ(35px) rotateY(-10deg);
+}
+
+/* sepatu  */
+.list_card_shoe {
+  background-image: radial-gradient(circle, black 1px, transparent 1px),
+    radial-gradient(circle, black 1px, transparent 1px);
+  background-size: 100px 100px;
+  /* background-color: white;  */
+  border: 1px solid #ddd; /* Opsional: Batas */
 }

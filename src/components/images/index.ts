@@ -8,7 +8,19 @@ const cartun08 = '/images/cartun/8.png';
 const cartun09 = '/images/cartun/9.png';
 const cartun10 = '/images/cartun/10.png';
 
-const cartun = [cartun01, cartun02, cartun03,  cartun05, cartun06, cartun07, cartun08, cartun09, cartun10];
+const shoes1 = '/images/shoes/1.jpg';
+const shoes2 = '/images/shoes/2.jpg';
+const shoes3 = '/images/shoes/3.jpg';
+const shoes4 = '/images/shoes/4.jpg';
+const shoes5 = '/images/shoes/5.jpg';
+const shoes6 = '/images/shoes/6.jpg';
+const shoes7 = '/images/shoes/7.jpg';
+const shoes8 = '/images/shoes/8.jpg';
+const shoes9 = '/images/shoes/9.jpg';
+const shoes10 = '/images/shoes/10.jpg';
 
-export {cartun}
+const cartun = [cartun01, cartun02, cartun03,  cartun05, cartun06, cartun07, cartun08, cartun09, cartun10];
+const shoes = [shoes1, shoes2, shoes3, shoes4, shoes5, shoes6, shoes7, shoes8, shoes9, shoes10];
+
+export {cartun, shoes};
 

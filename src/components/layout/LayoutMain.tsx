@@ -14,13 +14,13 @@ const LayoutMain = ({ children }: { children: ReactNode }) => {
           <nav>
             <ul>
               <li className="mb-2">
-                <a href="#" className="text-black">
-                  Dashboard
+                <a href="/hover" className="text-black">
+                  hover
                 </a>
               </li>
               <li className="mb-2">
-                <a href="#" className="text-black">
-                  Posts
+                <a href="/interactive-svg" className="text-black">
+                interactive-svg
                 </a>
               </li>
               <li className="mb-2">
